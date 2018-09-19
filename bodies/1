@@ -1,0 +1,1280 @@
+<table class="message_log_table">
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Connecting to chain bus kernel module...</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Connected!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">CVM link already established.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Executing user-supplied startup script /home/users/charl/.chatstart.conf</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Looking up chain://chat.zmdh63z2aoocurdid27p3ti2fddfmjxx4vk3kcni2i</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Connected [.50932 uCC/kbps]</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Capabilities supported: away-notify file-transfer forum-search clink-preview taxful-autonomics-hosting</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Capabilities requested: away-notify file-transfer</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Capabilities acknowledged: away-notify file-transfer</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">There are currently 96 user(s) talking on 14 channel(s) paying a total of 64.93105 uCC/kbps</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">MOTD:<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp____&nbsp&nbsp&nbsp&nbsp_&nbsp&nbsp&nbsp&nbsp_&nbsp&nbsp&nbsp_ _&nbsp&nbsp__<br>&nbsp_ __ | __ )&nbsp&nbsp/ \&nbsp&nbsp| \ | | |/ /<br> | '_ \|&nbsp&nbsp_ \ / _ \ |&nbsp&nbsp\| | ' / <br> | |_) | |_) / ___ \| |\&nbsp&nbsp| . \ <br> | .__/|____/_/&nbsp&nbsp&nbsp\_\_| \_|_|\_\<br> |_|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>The net's largest independent plasmid repository!<br>Genehackers welcome, Genetics Oversight Division GTFO.<br><br>Rules:<br>+ No spamming<br>+ No advertising<br>+ No deanonymizing (direct surfaceweb links EVEN TO PUBMED are an instaban)<br>+ No pathogenic DNA or RNA sequences (INCLUDING unbootstrapped viral particles)<br>+ No prion coding sequences<br>+ Respect the administration ;)<br><br>Your mods (gods) are:<br>&nbsp__________________<br>[!!!!masterhack!!!!]<br>&nbsp^^^^^^^^^^^^^^^^^^<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp!!yui!!<br>&nbsp&nbsp&nbsp!!lux_operon!!<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp!egene!<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp!retr0!<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp!bil!<br>(DNAbot has also been given operator status for admin purposes)<br><br>Please note that this chat is associated with the pBANK forums, and all username registration is handled <br>through forum accounts. YOU CANT REGISTER THROUGH NICKSERV so STOP ASKING.<br>~MH<br><br></td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Nickserv</td>
+		<td class="message">Warning: [charl] is a registered username - you are now identified as charl_2</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl_2</td>
+		<td class="message">/msg Nickserv IDENTIFY charl *************</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Nickserv</td>
+		<td class="message">Identify success. Welcome, charl.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">charl sets mode +i on charl</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">charl sets mode +z on charl</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">/join #general</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Now talking on #general</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Channel topic: pBANK general chat, Q&A | Global rules apply | Don't ask to ask.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Client logging start, scrollback disabled</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">lemmie check</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">@bil yeah protocol says 100 millimolar</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">What the fuck.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Can you copy exactly what it says?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">yea one sec</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">rosalin has left</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">rosalin has joined</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">"Prepare .1 M lithium acetate in a 25 milliliter conical and store at room temperature (20C)"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Fucking outages.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">I swear they're engineered to hit the computer district.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">@lupis What does it say about the transformation mix?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">it says to use the 100 mM lithium acetate in the trafo yeah</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">It doesn't say to use that to wash the cell pellet?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">it says to use it in the wash too</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">well one of em</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">first wash is acetate, seconds water</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">This is cerevisiae you're transforming, right?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">yeast, yeah</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Well, I guess we've found your problem then. </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">It doesn't have to do with the pBANK plasmid DNA you got - The LiAc is just too dilute.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Try using 1M, instead of .1M LiAc in the TRAFO</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">!!!!masterhack!!!! has joined</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">wont that kill the cells?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">It shouldn't.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Give it a shot, and hit me up once you've got some results.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">And ~mysteriously~ the power ~never~ goes out for the offices across the tracks.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">canislupis</td>
+		<td class="message">ill try it and see. thanks, cya @bil</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Good luck lup!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">canislupis has left </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Just for the poor sods running Internet scams on shitty library computers.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">These outages are just another arm of the trade council's crackdown on cybercrime.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Trying to make the country more "investor friendly".</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Newsflash: The only reason you HAVE a computer industry TO invest in is because of us!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">That's what you get for living in a shit country, rose <:)</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Oh fuck off. We can't all just pump money out of the ground.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">!!yui!! is no longer idle</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">you pwoooomised no fights with woooosealin >//<</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Fuck, that's right. Sorry ue, I'll stop.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Thank you maaaster <3333</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">How's the circuit-bending coming along, @yui?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Qwite well!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">I stwipped the cwoud feedback but weft network capibiwity!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">I thwink I'll have a working network-enabled bioweactor pwetty soon! ^u^</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">How did you remove just the one?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">:?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">I thought it was all soldered together?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Oh! I twook a software appwoach.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">I wemoved aaaaaawwwwwll the micwocode that talks to sigma biowogics OwO</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">yui added file "sigmaS33-300Litre-firmware-FWI&nbspED.bin" to the download list (901.5 MB, client hosting)</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNAbot</td>
+		<td class="message">**SCANNING NEW FILE, DO NOT DOWNLOAD UNTIL VERIFIED.**</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNAbot</td>
+		<td class="message">**New file does not contain pathogenic DNA or RNA sequence in any known format. Proceed with caution.**</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">bil added "sigmaS33-300Litre-firmware-FWI&nbspED.bin" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">rosalin added "sigmaS33-300Litre-firmware-FWI&nbspED.bin" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Christ almighty!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">charl added "sigmaS33-300Litre-firmware-FWI&nbspED.bin" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Oh hey charl, didn"t realize you were on.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Just tabbing in and out.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">JJ said he'd be on around now.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">You really think he's gonna show?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Did you edit this manually @yui???</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Yes! Wots and wots of hand-tooled assembwy code! "u"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Goddamn. You're pretty hardcore.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Nuuuuuuuuu!!!!!!! I'm soft!!!!!&nbsp&nbsp>//<</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Yep, ue's just a big marshmallow.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">^u^ <3</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Guest_11468 has joined</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">Can I asking question</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">How do I know what enzyme to use</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">I don't have sequencer</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">@charl Do you think you could do your antibody production in yui's new bioreactor?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">Sorry bad english</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Enzyme? For what? </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">You could be doing literally anything.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Fucking idiot.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">@Guest_11468 No sequencer... Are you trying to verify a plasmid sequence?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">!!yui!! is now idle.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">Got pBANK plasmid 10412 says I have to cut it with enzyme to check</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">Yes, @bil</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">Doing "gel electrophoresis"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">@rosalin Possibly.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Looking at that plasmid"s thread, it seems like ClaI is a good choice.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">You should get three bands.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">thanks @bil</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">No problem. Some advice:</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Get a direct CVM connection set up.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">@charl You've got to scale up production. Everyone else's suck.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Don"t connect through a surfaceweb service like you are now.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Hypothetically, GOD could pull their records and deanonymize you.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">Thanks.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">Guest_11468</td>
+		<td class="message">I not genehacker, thank you @bil for time and wise wisdom</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">What are you using p10412 for?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">Guest_11468 has left</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Why can't these fuckers learn English?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">It's been the language of the internet for a century now.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Yet they still can't conjugate a verb to save their life.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Now gather round everyone.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Take a look at this textbook example of linguistic imperialism!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Let me tell you all the ways in which MH"s comment stereotypes non native speakers, </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">!!lux_operon!! has joined.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Enforces a broken post-post-colonial value system, oppresses the technically illiterate, </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">And just generally perpetuates the economic-might-makes-right attitude that is currently killing the planet!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">If you want to get ahead in life, you need to know English.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">That's a fact.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">No amount of wishy-washy "won't somebody think of the idiots" bleeding heart bullshit is going to change that.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">lux_operon</td>
+		<td class="message">O god, not this shit again.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">lux_operon</td>
+		<td class="message">@yui hmu w/ firmware l8er</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">!!lux_operon!! has left.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">MASTER, WOSALIN</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">pwwwwwwwweeeeese stop fighting >>>&nbspPPP</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Or take it to #pawaticks</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">What? What channel is that?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Oh, "politics"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">That really gets mangled.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">j.johnson has joined</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Welcome back.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Hello again! Do you have the data?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Some wireman, please check my connection</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I need to make sure GOD can't see I"m here.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">What the hell could a wireman do?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">"Yeah, go down the hallway on your left and GOD won"t see you"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Idiot.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Or computerman, I don't know the slang.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">There isn't much we can see on our end.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">We could guess if you were using a surfaceweb service from your username, but that's about it.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Is there any way you can check if GOD can see me?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">I can ask you some questions about how you're connected, and guess.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Alright, shoot.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Are you connecting on a windows machine like last time?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">No, I bought a new laptop and installed Linux SilentRunner</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">MemeOS, got it</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Did I mess up?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">No, runner's fine. It"s just used by a lot of script kiddies is all.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">What chainchat client are you using?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Zchat</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Ok, and where are you connecting from?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I drove out into the slums and connected with a phone hotspot.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">rosalin has left</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">rosalin has joined</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">FUCK</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Sorry, I should have connected at a cafe like you suggested</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">No, It's just another outage.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Oh</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">What matters is that you're not on GG's network.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Ok</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Alright, while I can't say for sure, you're probably safe from the eyes of GOD.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Though you probably should have picked a less identifiable username.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Shit</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Don't worry about it.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Ok</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I have the files</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Upload them.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Ok</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Ok</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Here I go</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">j.johnson added file "xxxxxx_xxx_xxxxxxxxa0xCC.zip" to the download list (475.5 GB, client hosting)</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNABot</td>
+		<td class="message">**SCANNING NEW FILE, DO NOT DOWNLOAD UNTIL VERIFIED.**</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNABot</td>
+		<td class="message">**Recognized archive format ZIP, extracting...***</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNABot</td>
+		<td class="message">**WARNING, FILE "xxxxxx_xxx_xxxxxxxxa0xCC.zip" CONTAINS GG BIS FORMAT DNA AND RNA DATA**</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNABot</td>
+		<td class="message">**Running nucleotide BLAST against known pathogens...**</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">DNABot</td>
+		<td class="message">**New file does not contain pathogenic DNA or RNA sequence in any known format. Proceed with caution.**</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">charl added "xxxxxx_xxx_xxxxxxxxa0xCC.zip" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">masterhack added "xxxxxx_xxx_xxxxxxxxa0xCC.zip" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Holy shit, there it is.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">bil added "xxxxxx_xxx_xxxxxxxxa0xCC.zip" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">yui added "xxxxxx_xxx_xxxxxxxxa0xCC.zip" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">He came through.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Jesus Christ.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">rosalin added "xxxxxx_xxx_xxxxxxxxa0xCC.zip" to their download queue</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message"><:O</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">i just violated a General Genetics NDA</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I"m an employee</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I rent my apartment and buy my groceries from GG</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">What the hell am I going to do now?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">You"re going to keep living just as you were before.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">But what if they find out??</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">If bil says you're safe, you're safe.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">We"ll add the data to the pBANK repository, and we"ll list the source as "Anonymous"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Can you delete these messages?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">The chat?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Yes, the messages here.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">They"ll actually be autodeleted.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">This chainchat server doesn't store scrollback.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Convienient, eh?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Everyone's logging to disk.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I just couldn't take it anymore</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Mpox is preventable</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">It's been preventable since the late 60's</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">But GG has the patents</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">They're the only ones making vaccine at scale, and they're not making enough.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Fucking naturally.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Just scarce enough that the price stays high without justifying the investment required to undercut them.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">No tactic is too dirty, no market manipulation too blatant for the biological-industrial complex!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Oh my god</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I can't believe I just gave privileged data to fucking genehackers</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Before you uploaded that file, </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Anyone here could whip a few dozen doses of Mpox vaccine up.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Inoculate a few people, maybe.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Not enough to make a real difference.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Now, we can produce vaccine at scale.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Assuming we can get it to work, that is.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">You've really done something remarkable today, jj.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">You've saved thousands from disfigurement and death.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">It's no good.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">:?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I suspected as much when you said you only had third level clearance.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I'm not an expert on GG's corporate hierarchy, but that seemed too low to have access to Mpox stuff.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">There"s way too much higher-order RNA structure in this file.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">This looks like a virus.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">I mean it is a virus, essentially. Just an inactivated one.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Check the sequence data.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">This doesn't look so bad.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Look at the tertiary structure of the RNA.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">993247_a.ggrna in particular.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">What?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Oh god fucking damnit.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">That's a lot of ribozymes.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Ribozymes?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">What the hell is this shit, Johnson??</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">So all along, he was just trying to get us to kill ourselves.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">What???</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">You really had me going there, asshole.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I just downloaded the Mpox stuff and zipped it!!!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">OOOOOoooo! "gizmocat"</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Your password's so cuuuuute, Jeremy! \&nbsp&nbsp(^ w ^ ) /</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">WHAT THE FUCK</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Megapik got hacked wast year, you know.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">You weeeeeally shouldn't weuse passwords between sites... `n`</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">ESPECIWLLY for your GG citizenship wogin...</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I JUST UPLOADED THEFILES I DIDNT KNOW</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Yui, stop.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Stop whatever stunt you're pulling.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">I'm very impressed, but we can't jump to any conclusions.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">bil's right. If JJ were an agent of GOD, his GG account would have been better secured.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message"><_<</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Aw. I was looking forward to seeing ue wreck someone's shit.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message"><3</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Are you people seeing this virus???</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">It's fantastic!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">The envelope and nucleocapsid are pretty standard shit,</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">But the RNA is almost completely novel!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">It's like something that came out of a high throughput pathogenicity screen, where they just try everything.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">But it's human targeting, which would suggest that it's engineered.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Since obviously you wouldn't evolve a virus in human subjects.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">roslalin</td>
+		<td class="message">Wouldn't put it past sigma.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">It would be too expensive, regardless of ethics.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I just saw a directory labeled "Mpox vaccine" on my branch's server, and I gave it to you, OK???</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Awwww, you changed your paaasword jeeeeeeewameeeeeee.... </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Even if he's not a GOD agent, JJ here just tried to kill us. </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">We have no idea if it's lethal.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Really??</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Yeah! I have no idea what its effect on the human body would be!!!!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">It's got some motifs that look like they'd interact with liver cells, but beyond that all bets are off!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Isn't it fantastic!!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Is is possible that JJ just got his hands on something weird by mistake?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">No, this was clearly designed to slip by our DNAbot.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">The bot just checks sequences against known pathogens, so since this is completely unknown, it slipped through!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Yes charl, we all know how DNAbot works.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">None of us have had any brain hemorrhages since you explained it last time.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">Oh fuck off. You're just sore you had to get charl to set it up.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I just like to think out loud.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">So where the hell did this virus come from??</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">It was a setup.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">GG probably knew you were upset about the availability of Mpox vaccine, and so they slipped you the virus.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">With the goal of killing or flushing out some genehackers.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">Did you make any posts on social media about your concerns regarding the vaccine?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Oh</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Oh fuck </td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">On megapik.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">But wait,</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I did what they wanted.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">So, maybe, they don't have any problems with me??</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">They know you're willing to give privileged information to genehackers, so they'll likely fire you.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Probably press charges too - so they can have some deniability.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">I'd leave the country.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">fuck</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">FUCK</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Why did I do this</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I crawled my way into a tech job with a decent salary, and now it's all gone</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">My girlfriend's pregnant, all my money is in GG cash,</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">What the hell am I going to do???</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">bil</td>
+		<td class="message">I have some friends who might be able to help. Let's take this to a PM.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">I</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">j.johnson</td>
+		<td class="message">Ok</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">!bil! has left.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">*</td>
+		<td class="message">j.johnson has left.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">What kind of scumbag comes up with a tactic like that?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I have to synthesize it.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">rosalin</td>
+		<td class="message">The virus?</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">In silico isn't cutting it, I need to see how this thing ticks.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">Wait, did you actually have a brain hemorrhage? I was joking, charlie!</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Oh, it's not that dangerous.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I've got a cheap little tabletop reactor I can stick in quarantine use and burn afterwards.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">I twied alweady. Its a biiiiit two cooooompwicated for a widdle desktop weactor like that. O_o</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">masterhack</td>
+		<td class="message">You tried????</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">yui</td>
+		<td class="message">Of course! charl is wight, this viwus is suuuuuuuper cool B)</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I think my reactor can handle it.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">I've got a couple other things I can try regardless.</td>
+	</tr>
+	<tr class="message_log_tr">
+		<td class="username">charl</td>
+		<td class="message">Alright, I gotta go.</td>
+	</tr>
+</table>
