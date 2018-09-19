@@ -1,0 +1,27 @@
+<head>
+</head>
+
+<body>
+	<p>Enter a page number and press Go.</p><br>
+	<p>(There are three pages right now - 1, 2, 3)</p><br>
+
+	<input type="text" name="Page" id="input">
+	
+	<script>
+		function go(){
+			console.log("Value: ")
+			console.log(current_page=document.getElementById("input").value);
+			window.location="http://localhost:8000/viewer.htm#"+document.getElementById("input").value;
+		}
+		function resume(){
+			window.location="http://localhost:8000/viewer.htm";
+		}
+	</script>
+	<button type="button" onclick="go()">Go!</button>
+	<button type="button" onclick="resume()">Resume!</button>
+	
+	
+
+
+
+</body>

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+
+<style>
+.parallax {
+    
+	background-image: url("c3a");
+	min-height: 680px; 
+    background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+body {
+	background-color: black;
+	margin:0px;
+}
+
+.message_log_table {
+    
+	font-style: normal;
+    border-collapse: collapse;
+	font-size: 10pt;
+    width: 70%;
+	margin: 0 auto;
+	border: solid 1px; 
+	background-color: rgba(0,0,0,0.90);
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+	
+	
+}
+
+
+.message_log_tr { border: none; }
+
+
+
+	
+.username{
+	
+	text-align:right;
+	vertical-align:top;
+	padding: 3px;
+	border-right: solid 1px; 
+	
+}
+	
+.message {
+    
+    text-align: left;
+    padding: 3px;
+	
+}
+
+</style>
+</head>
+<body>
+<div class="parallax" id="paralax">
+	<div style="height:1000px;background-color:transparent"></div>
+	
+	<div style="background-color:rgba(0,0,0,0.3)">
+		<div id="log">
+			<p style="color:white">Uh oh!</p>
+		</div>
+
+		<div style="text-align: center;" id="buttons">
+			<div id="fbbutton_holder">
+				<button id="bbutton" type="button" onclick="last_page()" style="width:500px">Back</button>
+				<button id="fbutton" type="button" onclick="next_page()" style="width:500px">Forward</button>
+			</div>
+		</div>
+		
+		<div style="text-align: center;">
+		    <button type="button" style="text-align:center;" onclick="return_to_index()">Index</button>
+		</div>
+	    
+	</div>
+	
+	
+	
+	
+</div>
+
+<script>
+
+scroll_top();
+var current_page=1;
+var max_page=3;
+
+function next_page(){
+	current_page=Number(current_page)+1;
+	set_page();
+}
+
+function last_page(){
+	current_page=Number(current_page)-1;
+	set_page();
+}
+	
+function scroll_top() {
+	document.body.scrollTop = 0;
+	document.documentElement.scrollTop = 0;
+}
+function transition(){
+	scroll_top();
+	document.getElementById("log").innerHTML=this.responseText;
+	document.getElementById("paralax").style.backgroundImage="url(images/"+String(current_page)+")";
+	
+	var img = new Image();
+	img.onload = function() {
+  		document.getElementsByClassName('className').style="min-height:"+String(this.height);
+		//document.paralax.min-height=;
+	}
+	img.src ="images/"+String(current_page);
+	
+	
+	var cstring="page="+String(current_page)+ "; max-age=86400 ; path=/";
+	document.cookie = cstring;
+	//console.log(cstring);
+	
+	window.location="http://localhost:8000/viewer.htm#"+current_page
+	
+	
+
+}
+function set_page(){
+	var backward_button="<button id=\"bbutton\" type=\"button\" onclick=\"last_page()\" style=\"width:500px\">Back</button>"
+	var forward_button="<button id=\"fbutton\" type=\"button\" onclick=\"next_page()\" style=\"width:500px\">Forward</button>"
+	
+	//Delete and re-create the button holder
+	document.getElementById("fbbutton_holder").outerHTML = "";
+	document.getElementById("buttons").innerHTML = "<div id=\"fbbutton_holder\"></div>";
+
+	//add the appropriate buttons
+	if(current_page==1){
+		document.getElementById("fbbutton_holder").innerHTML=forward_button;
+		
+	}
+	else if (current_page==max_page){
+		
+		document.getElementById("fbbutton_holder").innerHTML=backward_button; 
+	}
+	else{
+		document.getElementById("fbbutton_holder").innerHTML=backward_button+forward_button;
+		
+	}
+	
+	
+	var req= new XMLHttpRequest();
+	req.addEventListener("load",transition);
+	
+	req.open("GET","bodies/"+String(current_page));
+	req.send();
+}
+
+function main(){
+	//if there's a page specified by the URL, then go there.
+	//If not, look for a cookie, and read the page from there
+	//If all else fails, go to page zero
+	var url= window.location.href;
+	start = url.indexOf("#");
+	console.log("start #:"+start)
+	if (start==-1 || start==url.length-1 ){
+		//console.log("no number...");
+		//no number in the URL, read from cookie...
+		if(document.cookie==""){
+			//no cookie, just pass thru - going to page zero...
+			set_page();
+		}
+		else{
+			//
+			
+			current_page=document.cookie.split("=")[1];
+			console.log("Loading Cookie: " + current_page);
+			set_page();
+		}
+	}
+	else{
+		
+		//var cstring="page="+String(url.slice(url.indexOf("#"))+1)+ "; max-age=86400 ; path=/";
+		//document.cookie = cstring;
+		current_page= url.slice(Number(url.indexOf("#"))+1)
+		if(current_page<1){current_page=1;}
+		if(current_page>max_page){current_page=max_page;}
+		set_page();
+		
+		//number in the URL
+		//save number to cookie, reidrect to viewer link with no #
+	}
+		
+	
+	
+}
+main();
+
+function return_to_index(){
+	window.location="/index.htm";
+}
+	
+
+
+</script>
+
+</body>
+</html>
