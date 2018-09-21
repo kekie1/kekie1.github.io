@@ -22,7 +22,7 @@ body {
     
 	font-style: normal;
     border-collapse: collapse;
-	font-size: 10pt;
+	
     width: 70%;
 	margin: 0 auto;
 	border: solid 1px; 
@@ -40,7 +40,7 @@ body {
 
 	
 .username{
-	
+	font-size: 10pt;
 	text-align:right;
 	vertical-align:top;
 	padding: 3px;
@@ -49,8 +49,9 @@ body {
 }
 	
 .message {
-    
+    font-size: 10pt;
     text-align: left;
+	vertical-align:top;
     padding: 3px;
 	
 }
@@ -121,7 +122,7 @@ function transition(){
 	document.cookie = cstring;
 	//console.log(cstring);
 	
-	window.location="/viewer.htm#"+current_page
+	window.location="viewer.htm#"+current_page
 	
 	
 
